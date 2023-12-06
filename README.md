@@ -1,1 +1,1 @@
-﻿# JS1-BasicLateinit
+﻿# JS1 & JS2 - BasicLateinit
